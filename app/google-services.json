@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "776036684088",
+    "firebase_url": "https://logindemo-fcb39.firebaseio.com",
+    "project_id": "logindemo-fcb39",
+    "storage_bucket": "logindemo-fcb39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776036684088:android:253b1361928b93c1",
+        "android_client_info": {
+          "package_name": "com.example.klasikarya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776036684088-tqi0n3pjivkv08t2ugaelekkeka50a44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.klasikarya",
+            "certificate_hash": "3043fed5921d4e077b61d96931155d2ef6d64ca7"
+          }
+        },
+        {
+          "client_id": "776036684088-su6o832fqfpeue430qsjenk9g49md0d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVgd1dlcshdp5g_P0mzqZ2j1tpXXOTV8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776036684088-su6o832fqfpeue430qsjenk9g49md0d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

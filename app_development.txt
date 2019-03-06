@@ -1,0 +1,19 @@
+Klasikarya app development
+
+1. //Screen lock portrait (done)
+2. //Grid Layout
+3. //Image Button
+4. //Login process (Done)
+5. //Content (done)
+6. //Input data to the database (done)
+7. Transition animation
+8. //Test with USB(done)
+9. Upload to play store
+10. //notifications from firebase (done)
+11. //button ripple effect (done)
+12. //tidying up the contacts (done) 
+13. //splash after sign up (done)
+14. //app theme: black (done)
+15. Security system
+16. layout homepage/UX UI
+17. Back disable button in Home and Log out screen
